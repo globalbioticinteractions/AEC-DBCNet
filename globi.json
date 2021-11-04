@@ -1,5 +1,5 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "_comment": "Data from the Collaborative databasing of North American bee collections within a global informatics network project. Data originally captured using Arthropod Easy Capture software.",
+  "citation": "Digital Bee Collections Network, 2014 (and updates). Version: 08 Mar 2016. National Science Foundation grant DBI 0956388",
   "deprecated": false
 }
